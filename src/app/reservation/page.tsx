@@ -135,11 +135,11 @@ export default function Reservation(){
 
 
         <div className="text-center mt-4 text-xs text-gray-500">
-          <p className="flex items-center justify-center gap-2">
-            <i className="fas fa-exclamation-triangle text-red-500"></i>
-            Reservations can be held for 15 mins. We won't refund cancellations done after 15 mins of hold; however, cancellation within 15 mins would be refunded.
-          </p>
-        </div>
+  <p className="flex items-center justify-center gap-2">
+    <i className="fas fa-exclamation-triangle text-red-500"></i>
+    Reservations can be held for 15 mins. We won&apos;t refund cancellations done after 15 mins of hold; however, cancellation within 15 mins would be refunded.
+  </p>
+</div>
       </div>
     </div>
         </main>
